@@ -1,1 +1,13 @@
-{"version":"5","dialect":"pg","entries":[]}
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1691285309533,
+      "tag": "0000_crazy_wonder_man",
+      "breakpoints": true
+    }
+  ]
+}
